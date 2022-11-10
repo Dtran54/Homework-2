@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="Frame">
+        <ui:Button text="Change Camera" display-tooltip-when-elided="true" name="Button" />
+    </ui:VisualElement>
+    <ui:VisualElement name="Frame">
+        <ui:Button text="Change Lights" display-tooltip-when-elided="true" name="CButton" />
+    </ui:VisualElement>
+</ui:UXML>
